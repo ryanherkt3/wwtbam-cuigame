@@ -68,7 +68,7 @@ public class MillionaireGame
         String repeat = "";
         Scanner scan = new Scanner(System.in);
         
-        while (!repeat.equalsIgnoreCase("y"))
+        while (!repeat.equalsIgnoreCase("n"))
         {
             //Create new instance of AddQuestions:
             AddQuestions add = new AddQuestions();
