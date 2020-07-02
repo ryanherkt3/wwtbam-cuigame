@@ -65,33 +65,50 @@ public class MillionaireGame
      */
     public static void main(String[] args) 
     {
-        //Create new instance of AddQuestions:
-        AddQuestions add = new AddQuestions();
-        MillionaireGame mg = new MillionaireGame();
+        String repeat = "";
+        Scanner scan = new Scanner(System.in);
         
-        //Add questions to master ArrayList under the hood:
-        add.easyQuestions();    //add easiest questions first
-        add.mediumQuestions();  //add medium questions next
-        add.hardQuestions();    //add hardest questions last
-        
-        //Grab the fully initialized master ArrayList that's under the hood, and 
-        //use it to initialize the static questions ArrayList here:
-        questions = add.getQuestions();
-        
-        System.out.println("Welcome to Who Wants To Be A Millionaire!");
-        
-        //show user list of commands by reading text file to console:
-        System.out.println("Here is a list of commands you can use during the game:");
-        FileOperations.readHelpDocument();
-        
-        System.out.println();
-        System.out.println("For best user experience, play the game in full "
-                + "screen (i.e. maximise the output window).");
-        System.out.println("Please note all answers are case-sensitive. "
-                + "Good luck! Let's play Who Wants To Be A Millionaire!");
-        System.out.println();
-        
-        mg.game();  //start the game by calling this method
+        while (!repeat.equalsIgnoreCase("y"))
+        {
+            //Create new instance of AddQuestions:
+            AddQuestions add = new AddQuestions();
+            MillionaireGame mg = new MillionaireGame();
+
+            //Add questions to master ArrayList under the hood:
+            add.easyQuestions();    //add easiest questions first
+            add.mediumQuestions();  //add medium questions next
+            add.hardQuestions();    //add hardest questions last
+
+            //Grab the fully initialized master ArrayList that's under the hood, and 
+            //use it to initialize the static questions ArrayList here:
+            questions = add.getQuestions();
+
+            System.out.println("Welcome to Who Wants To Be A Millionaire!");
+
+            //show user list of commands by reading text file to console:
+            System.out.println("Here is a list of commands you can use during the game:");
+            FileOperations.readHelpDocument();
+
+            System.out.println();
+            System.out.println("For best user experience, play the game in full "
+                    + "screen (i.e. maximise the output window).");
+            System.out.println("Please note all answers are case-sensitive. "
+                    + "Good luck! Let's play Who Wants To Be A Millionaire!");
+            System.out.println();
+
+            mg.game();  //start the game by calling this method
+            
+            do
+            {
+                System.out.println("Would you like to play again (y/n)?");
+                repeat = scan.nextLine();
+            } while (!repeat.equalsIgnoreCase("y") || !repeat.equalsIgnoreCase("n"));
+            
+            if (repeat.equalsIgnoreCase("y"))
+                System.out.println("GREAT!");
+            else
+                System.out.println("Thanks for playing!");
+        }
     }
     
     /**
