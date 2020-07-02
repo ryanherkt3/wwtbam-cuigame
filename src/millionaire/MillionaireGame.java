@@ -102,7 +102,7 @@ public class MillionaireGame
             {
                 System.out.println("Would you like to play again (y/n)?");
                 repeat = scan.nextLine();
-            } while (!repeat.equalsIgnoreCase("y") || !repeat.equalsIgnoreCase("n"));
+            } while (!repeat.equalsIgnoreCase("y") || !repeat.equalsIgnoreCase("n"));//edit
             
             if (repeat.equalsIgnoreCase("y"))
                 System.out.println("GREAT!");
