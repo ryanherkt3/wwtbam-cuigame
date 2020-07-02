@@ -1,0 +1,9 @@
+'A', 'B', 'C', 'D' - the four possible answers.
+'5050' - uses the 50/50 lifeline if it hasn't been used yet.
+'audience' - uses the Ask the Audience lifeline if it hasn't been used yet.
+'friend' - uses the Phone A Friend lifeline if it hasn't been used yet.
+'money' - tells you how much money you've currently won.
+'lifelines' - tells you what lifelines you have left, if any.
+'walk' - allows you to finish if you don't know the answer and don't want to lose your money.
+'question' - reprints the question incase you forgot it.
+'help' - brings up this text file.

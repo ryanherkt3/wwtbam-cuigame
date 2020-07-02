@@ -1,0 +1,509 @@
+﻿1: James May is known as Captain what?
+A: Speedy
+B: Slow
+C: Haddock
+D: Underpants
+User's answer: slow
+User's answer: B
+
+2: The Harbour Bridge is located in which city?
+A: Auckland
+B: Wellington
+C: Christchurch
+D: Hamilton
+User's answer: A
+
+3: State of Origin is an annual sports contest between which two Australian states?
+A: Victoria & SA
+B: NSW & QLD
+C: QLD & WA
+D: WA & SA
+User's answer: B
+
+4: A rugby ball is what shape?
+A: Rectangle
+B: Circle
+C: Diamond
+D: Oval
+User's answer: D
+
+5: Which of these is a New Zealand political party?
+A: Reds
+B: Greens
+C: Blues
+D: Yellows
+User's answer: audience
+audience: 7% voted for A, 83% voted for B, 7% voted for C, and 3% voted for D.
+User's answer: B
+
+6: Craig Bellamy coaches which NRL team?
+A: Brisbane Broncos
+B: Sydney Roosters
+C: Cronulla Sharks
+D: Melbourne Storm
+User's answer: D
+
+7: Latrell Mitchell plays for which NRL team?
+A: St George Dragons
+B: Sydney Roosters
+C: South Sydney Rabbitohs
+D: Melbourne Storm
+User's answer: C
+
+8: In which city does the band Six60 originate from?
+A: Auckland
+B: Wellington
+C: Christchurch
+D: Dunedin
+User's answer: D
+
+9: Who was the original Millionaire UK host on ITV?
+A: Chris Tarrant
+B: Jeremy Clarkson
+C: Anne Robinson
+D: Jeremy Vine
+User's answer: 5050
+5050: B and C are incorrect!
+User's answer: A
+
+10: In which of these towns can you find the famous Pania statue?
+A: Whangarei
+B: Napier
+C: Dunedin
+D: Gisborne
+User's answer: B
+
+11: Malcolm Black was the lead singer for which Kiwi hit song?
+A: Ten Guitars
+B: Bliss
+C: Don't Dream It's Over
+D: For Today
+User's answer: D
+
+12: How many NRL games did Paul Kent play?
+A: 64
+B: 28
+C: 1
+D: 193
+User's answer: C
+
+13: Which of these colours appears on the flags of Colombia, Thailand and Belgium?
+A: Blue
+B: Green
+C: Red
+D: Yellow
+User's answer: lifelines
+Lifeline statuses:
+50/50 used on question #9.
+Ask the Audience used on question #5.
+Phone A Friend unused.
+Lifelines unused: (1)
+User's answer: friend
+friend: I don't know the answer sorry.
+User's answer: C
+
+14: What type of wild animal is an ibex?
+A: Hare
+B: Deer
+C: Pig
+D: Goat
+User's answer: D
+
+15: What was the end result of the 2019 Cricket World Cup Final?
+A: Tie
+B: Washout
+C: Win on countback
+D: Outright win
+User's answer: C
+
+Correct answers: 15. Money won: $1000000
+==========
+1: Baldwin St, the world's steepest street, is in which city?
+A: Nelson
+B: Christchurch
+C: Dunedin
+D: Queenstown
+User's answer: D
+
+Correct answer: C - Dunedin
+Correct answers: 0. Money won: $0. Got the $100 question wrong.
+==========
+1: State of Origin is an annual sports contest between which two Australian states?
+A: Victoria & SA
+B: NSW & QLD
+C: QLD & WA
+D: WA & SA
+User's answer: B
+
+2: Which of these is NOT an NZ beer?
+A: Lion Red
+B: Monteith's
+C: Carlsberg
+D: Speights
+User's answer: C
+
+3: Christmas is observed in which month?
+A: November
+B: December
+C: January
+D: February
+User's answer: B
+
+4: Richie McCaw played in which rugby position?
+A: Prop
+B: Lock
+C: Hooker
+D: Loose forward
+User's answer: D
+
+5: Which of these is the number one sport in New Zealand?
+A: Soccer
+B: Cricket
+C: Netball
+D: Rugby Union
+User's answer: D
+
+6: The biggest day of the U.S. presidential primary season is known as Super when?
+A: Monday
+B: Tuesday
+C: Thursday
+D: Saturday
+User's answer: B
+
+7: The O in NATO stands for what?
+A: Operations
+B: Overlords
+C: Organization
+D: Orders
+User's answer: C
+
+8: Which team won the 2019 Mitre 10 Cup?
+A: Auckland
+B: Tasman
+C: Canterbury
+D: Wellington
+User's answer: B
+
+9: The 'Father/Mother of the House' is an unofficial title given to which MP?
+A: Youngest
+B: Longest continuously serving
+C: Oldest
+D: Speaker
+User's answer: B
+
+10: Which of these is a piece of cricket equipment and furniture item?
+A: Pad
+B: Box
+C: Ball
+D: Glove
+User's answer: 5050
+5050: A and C are incorrect!
+User's answer: audience
+audience: 86% voted for B, and 14% voted for D.
+User's answer: B
+
+11: From 1980, how many years did the West Indies cricket team go without losing a Test series?
+A: 10
+B: 15
+C: 20
+D: 25
+User's answer: B
+
+12: Newstalk ZB broadcaster Andrew Dickens had which type of cancer in 2019?
+A: Prostate
+B: Pancreas
+C: Lung
+D: Liver
+User's answer: friend
+friend: I'm 70% confident the answer is D
+User's answer: A
+
+13: What is Abraham Lincoln's famous 1863 address known as?
+A: Washington Rally
+B: Gettysburg Address
+C: Philadelphia Protest
+D: Chicago Speech
+User's answer: B
+
+14: What was the name of the Soviet dog who oribted the Earth in 1957?
+A: Laika
+B: Kaila
+C: Anna
+D: Alexandra
+User's answer: money
+You currently have: $250000. And are guaranteed to win: $32000
+User's answer: lifelines
+Lifeline statuses:
+50/50 used on question #10.
+Ask the Audience used on question #10.
+Phone A Friend used on question #12.
+Lifelines unused: (0)
+User's answer: A
+
+15: What animal features on the WWF logo?
+A: Panda
+B: Polar bear
+C: Tiger
+D: Elephant
+User's answer: walk
+Correct answer: A - Panda
+Correct answers: 14. Money won: $500000. Walked on the $1000000 question.
+==========
+1: A rugby ball is what shape?
+A: Rectangle
+B: Circle
+C: Diamond
+D: Oval
+User's answer: D
+
+2: IBM's Deep Blue beat which of these chess players in 1997?
+A: Anatoly Karpov
+B: Boris Spassky
+C: Garry Kasparov
+D: Bobby Fischer
+User's answer: C
+
+3: A sleeveless shirt is otherwise known as a what?
+A: Singlet
+B: Teepee
+C: Suit
+D: Jacket
+User's answer: A
+
+4: When was the last NZ General Election?
+A: 2011
+B: 2013
+C: 2015
+D: 2017
+User's answer: D
+
+5: New Zealand's Parliament building is known by what name?
+A: The Basin
+B: The Beehive
+C: Cake Tin
+D: Hornet's Nest
+User's answer: B
+
+6: The 'Father/Mother of the House' is an unofficial title given to which MP?
+A: Youngest
+B: Longest continuously serving
+C: Oldest
+D: Speaker
+User's answer: B
+
+7: Reddit was founded in what year?
+A: 2003
+B: 2004
+C: 2005
+D: 2002
+User's answer: C
+
+8: Which city is known as the sporting capital of the world?
+A: Melbourne
+B: London
+C: Athens
+D: Tokyo
+User's answer: A
+
+9: Which New Zealand town has the big sheep and dog buildings?
+A: Matamata
+B: Tirau
+C: Ohakune
+D: Paeroa
+User's answer: friend
+friend: I'm 100% confident the answer is B
+User's answer: friend
+friend: You have already used this lifeline!
+User's answer: B
+
+10: In 501-darts, what's the fewest amount of darts it takes to get 501?
+A: 9
+B: 10
+C: 11
+D: 12
+User's answer: A
+
+11: Which of these TV shows did Bear Grylls host?
+A: Survivor
+B: Shark Tank
+C: Born Survivor
+D: Naked and Afraid
+User's answer: C
+
+12: Peter Oakley went by which username on YouTube?
+A: geriatric1927
+B: POakley1927
+C: The Internet Grandad
+D: Peter Oakley
+User's answer: audience
+audience: 25% voted for A, 21% voted for B, 27% voted for C, and 27% voted for D.
+User's answer: lifelines
+Lifeline statuses:
+50/50 unused.
+Ask the Audience used on question #12.
+Phone A Friend used on question #9.
+Lifelines unused: (1)
+User's answer: A
+
+13: What was the end result of the 2019 Cricket World Cup Final?
+A: Tie
+B: Washout
+C: Win on countback
+D: Outright win
+User's answer: C
+
+14: How many years did Leighton Smith work on Newstalk ZB's 8:30 to midday show?
+A: 24
+B: 28
+C: 33
+D: 30
+User's answer: C
+
+15: What is the name of Newcastle Knights legend Andrew Johns' brother?
+A: Ben
+B: Greg
+C: Matthew
+D: Paul
+User's answer: 5050
+5050: A and B are incorrect!
+User's answer: C
+
+Correct answers: 15. Money won: $1000000
+==========
+1: Prior to its conversion to university halls of residence, what was Carlaw Park?
+A: Recreational centre
+B: Giant playground
+C: Nancy
+D: Rugby league venue
+User's answer: D
+
+2: The Harbour Bridge is located in which city?
+A: Auckland
+B: Wellington
+C: Christchurch
+D: Hamilton
+User's answer: A
+
+3: What is New Zealand's population to the nearest million?
+A: 3
+B: 4
+C: 5
+D: 6
+User's answer: C
+
+4: Richie McCaw played in which rugby position?
+A: Prop
+B: Lock
+C: Hooker
+D: Loose forward
+User's answer: D
+
+5: Jeremy Clarkson was controversially sacked from which show in 2015?
+A: Fifth Gear
+B: The Grand Tour
+C: Top Gear
+D: The Three Stooges
+User's answer: C
+
+6: The sum of one suit of cards (Ace to King) equals what number?
+A: 90
+B: 91
+C: 92
+D: 93
+User's answer: friendd
+User's answer: friend
+friend: I'm 70% confident the answer is C
+User's answer: B
+
+7: How many continents is Russia a part of?
+A: One
+B: Two
+C: Three
+D: Zero
+User's answer: B
+
+8: Barack Obama was what president number?
+A: 42
+B: 44
+C: 41
+D: 43
+User's answer: B
+
+9: James May was fired from which car magazine?
+A: Top Gear
+B: DriveTribe
+C: Car
+D: Autocar
+User's answer: D
+
+10: Reddit was founded in what year?
+A: 2003
+B: 2004
+C: 2005
+D: 2002
+User's answer: C
+
+11: Fleetwood Mac recently added which Kiwi musician to its band?
+A: Neil Finn
+B: Stan Walker
+C: Tim Finn
+D: Tiki Taane
+User's answer: A
+
+12: What animal features on the WWF logo?
+A: Panda
+B: Polar bear
+C: Tiger
+D: Elephant
+User's answer: A
+
+13: What is the Otago rugby team's nickname?
+A: Stags
+B: Makos
+C: Razorbacks
+D: Turbos
+User's answer: C
+
+14: Which of these is a name of an Egghead from the quiz show?
+A: Shane
+B: Barry
+C: Nancy
+D: Charlie
+User's answer: lifeline
+User's answer: lifelines
+Lifeline statuses:
+50/50 unused.
+Ask the Audience unused.
+Phone A Friend used on question #6.
+Lifelines unused: (2)
+User's answer: B
+
+15: How many years did Leighton Smith work on Newstalk ZB's 8:30 to midday show?
+A: 24
+B: 28
+C: 33
+D: 30
+User's answer: 5050
+5050: A and B are incorrect!
+User's answer: audience
+audience: 37% voted for C, and 63% voted for D.
+User's answer: A
+
+Answer no longer exists. Try again!
+15: How many years did Leighton Smith work on Newstalk ZB's 8:30 to midday show?
+A: 24
+B: 28
+C: 33
+D: 30
+User's answer: B
+
+Answer no longer exists. Try again!
+15: How many years did Leighton Smith work on Newstalk ZB's 8:30 to midday show?
+A: 24
+B: 28
+C: 33
+D: 30
+User's answer: C
+
+Correct answers: 15. Money won: $1000000
+==========
