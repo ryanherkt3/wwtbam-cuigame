@@ -9,5 +9,4 @@ Features:
 * Simple UI 
 
 Work-ons:
-* UI: Ensure user chooses when game can end, as currently it ends when a user gets an answer wrong/walks/answers all questions correctly
 * Class complexity: Improve class structure/make it more complex
